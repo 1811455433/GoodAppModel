@@ -3,4 +3,10 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+    <color name="login_1_background">#D5D5D5</color>
+    <color name="login_1_blue_user">#0071BC</color><!--主色蓝 -->
+    <color name="login_1_blue_touch_user">#B3B3B3</color><!--主色 按住蓝 -->
+    <color name="login_1_background_user">#F2F2F2</color><!--主色 按住蓝 -->
+    <color name="login_1_black_user">#333333</color><!--主色  -->
+    <color name="white">#ffffff</color>
 </resources>
