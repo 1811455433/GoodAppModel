@@ -3,4 +3,4 @@
 ## 登陆（login）
 
 ### model1
-![avatar](./readmeRes/login_1.png “login_1.png”)
+![](https://github.com/1811455433/GoodAppModel/blob/master/readmeRes/login_1.png)
